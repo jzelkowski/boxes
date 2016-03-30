@@ -1,0 +1,15 @@
+#basic1 {
+	width: 200px;
+	padding: 10px;
+	border-style: dotted;
+}
+#basic2 {
+	width: 100px;
+	padding: 25px;
+	border: none;
+}
+#basic3 {
+	width: 300px;
+	padding: 20px;
+	border: solid black;
+}
